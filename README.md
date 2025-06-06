@@ -1,5 +1,5 @@
 
-# 📚 Kindle Screenshot Automation Tool
+# 📚 EBook Screenshot Automation Tool
 
 This Python script automates the process of capturing screenshots of Kindle pages. It simulates turning pages and saving each screenshot with a timestamp. Ideal for archiving or studying purposes (note: respect copyright laws!).
 
